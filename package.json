@@ -1,0 +1,13 @@
+{
+  "name": "permastore",
+  "version": "0.0.1",
+  "description": "A quick and easy persistant storage solution with caching support",
+  "main": "lib/index.js",
+  "repository": "https://github.com/RayzrDev/permastore",
+  "author": "Rayzr",
+  "license": "MIT",
+  "dependencies": {
+    "cashr": "^0.0.1",
+    "xpdb": "^1.0.1"
+  }
+}
